@@ -1,7 +1,3 @@
-layout: page
-title: "NextJS next-intl HOC"
-permalink: /nextjs/next-intl-hoc
-
 [next-intl](https://next-intl-docs.vercel.app/docs/getting-started) ашиглахад default-оор бүх орчуулгаа
 client талруу илгээдэггүй, тиймээс орчуулга client component дээр шууд ажиллахгүй. Санал болгосон олон 
 шийдлүүдийн нэг болох Provider-аар client component-оо wrap лах. Тус тусад нь байнга wrapлаад байхын оронд
