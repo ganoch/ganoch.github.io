@@ -1,3 +1,7 @@
+layout: page
+title: "NextJS Server Client"
+permalink: /nextjs/server-client
+
 ### server actions
 
 React-ын mod-нд байхгүй тул
