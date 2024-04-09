@@ -1,0 +1,7 @@
+toc:
+  - title: NextJS
+    subfolderitems:
+      - page: Server/Client 
+        url: /nextjs/server-client
+      - page: next-intl Client HOC
+        url: /next-intl-hoc
